@@ -20,7 +20,7 @@ class Solution(object):
 
 ## key
 
-使用 hash table 以時間換取
+使用 hash table 以空間換取時間, hash table 搜尋時間近似 `O(1)`
 
 ## note
 

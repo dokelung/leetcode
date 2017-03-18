@@ -28,6 +28,7 @@ class Solution(object):
 
 * 使用 sliding window
 * 使用 `set` 或 `mapping`, 記得保持更新
+* 如果可以確定 string 中的 charset, 可以使用 array 來取代 `set` 或 `map`
 
 ## note
 
